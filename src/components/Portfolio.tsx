@@ -590,20 +590,20 @@ const Portfolio: React.FC = () => {
       category: 'child',
       title: 'Playful Childhood Moments',
     },
-    {
-      id: 3,
-      type: 'video',
-      url: '/fam.mp4',
-      category: 'family',
-      title: 'Family Video Session',
-    },
-    {
-      id: 4,
-      type: 'video',
-      url: '/videoone.mp4', // local video in public/videos/
-      category: 'wedding',
-      title: 'Sunset Engagement Session (Video)',
-    },
+    // {
+    //   id: 3,
+    //   type: 'video',
+    //   url: '/fam.mp4',
+    //   category: 'family',
+    //   title: 'Family Video Session',
+    // },
+    // {
+    //   id: 4,
+    //   type: 'video',
+    //   url: '/videoone.mp4', // local video in public/videos/
+    //   category: 'wedding',
+    //   title: 'Sunset Engagement Session (Video)',
+    // },
     {
       id: 5,
       type: 'video',
@@ -612,13 +612,13 @@ const Portfolio: React.FC = () => {
       title: 'Sunset Engagement Session (Video)',
     },
    
-    {
-      id: 7,
-      type: 'video',
-      url: '/kid1.mp4',
-      category: 'child',
-      title: 'Playful Childhood Moments',
-    },
+    // {
+    //   id: 7,
+    //   type: 'video',
+    //   url: '/kid1.mp4',
+    //   category: 'child',
+    //   title: 'Playful Childhood Moments',
+    // },
     {
       id: 8,
       type: 'video',
@@ -647,13 +647,13 @@ const Portfolio: React.FC = () => {
       category: 'family',
       title: 'Family Video Session',
     },
-    {
-      id: 10,
-      type: 'video',
-      url: '/haldi.mp4',
-      category: 'prewedding',
-      title: 'Pre-Wedding Video Session',
-    },
+    // {
+    //   id: 10,
+    //   type: 'video',
+    //   url: '/haldi.mp4',
+    //   category: 'prewedding',
+    //   title: 'Pre-Wedding Video Session',
+    // },
     {
       id: 11,
       type: 'video',
@@ -675,20 +675,20 @@ const Portfolio: React.FC = () => {
       category: 'studio',
       title: 'Family Video Session',
     },
-    {
-      id: 14,
-      type: 'video',
-      url: '/studio-1.mp4',
-      category: 'studio',
-      title: 'Family Video Session',
-    },
-    {
-      id: 15,
-      type: 'video',
-      url: '/can-1.mp4',
-      category: 'corporate',
-      title: 'Family Video Session',
-    },
+    // {
+    //   id: 14,
+    //   type: 'video',
+    //   url: '/studio-1.mp4',
+    //   category: 'studio',
+    //   title: 'Family Video Session',
+    // },
+    // {
+    //   id: 15,
+    //   type: 'video',
+    //   url: '/can-1.mp4',
+    //   category: 'corporate',
+    //   title: 'Family Video Session',
+    // },
     {
       id: 16,
       type: 'image',
